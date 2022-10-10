@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4986356677045205118
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1889591434552984560, guid: e03b38062d8915c47bde08cfce35f7a1,
+        type: 3}
+      propertyPath: m_Range
+      value: 17.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 1889591434552984560, guid: e03b38062d8915c47bde08cfce35f7a1,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 7.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2195690587751882023, guid: e03b38062d8915c47bde08cfce35f7a1,
+        type: 3}
+      propertyPath: shakeAmount
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2195690587751882023, guid: e03b38062d8915c47bde08cfce35f7a1,
+        type: 3}
+      propertyPath: duration
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3274311422523989213, guid: e03b38062d8915c47bde08cfce35f7a1,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -15.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 3274311422523989213, guid: e03b38062d8915c47bde08cfce35f7a1,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3274311422523989213, guid: e03b38062d8915c47bde08cfce35f7a1,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3274311422523989213, guid: e03b38062d8915c47bde08cfce35f7a1,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3274311422523989213, guid: e03b38062d8915c47bde08cfce35f7a1,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3274311422523989213, guid: e03b38062d8915c47bde08cfce35f7a1,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3274311422523989213, guid: e03b38062d8915c47bde08cfce35f7a1,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3274311422523989213, guid: e03b38062d8915c47bde08cfce35f7a1,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3274311422523989213, guid: e03b38062d8915c47bde08cfce35f7a1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3274311422523989213, guid: e03b38062d8915c47bde08cfce35f7a1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3274311422523989213, guid: e03b38062d8915c47bde08cfce35f7a1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4219667325790011137, guid: e03b38062d8915c47bde08cfce35f7a1,
+        type: 3}
+      propertyPath: m_Volume
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6672274464400468253, guid: e03b38062d8915c47bde08cfce35f7a1,
+        type: 3}
+      propertyPath: m_Name
+      value: Big Death Effect
+      objectReference: {fileID: 0}
+    - target: {fileID: 9201831702170658477, guid: e03b38062d8915c47bde08cfce35f7a1,
+        type: 3}
+      propertyPath: InitialModule.startSize.scalar
+      value: 0.67
+      objectReference: {fileID: 0}
+    - target: {fileID: 9201831702170658477, guid: e03b38062d8915c47bde08cfce35f7a1,
+        type: 3}
+      propertyPath: EmissionModule.m_Bursts.Array.data[0].countCurve.scalar
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 9201831702170658477, guid: e03b38062d8915c47bde08cfce35f7a1,
+        type: 3}
+      propertyPath: InitialModule.startLifetime.scalar
+      value: 2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e03b38062d8915c47bde08cfce35f7a1, type: 3}
